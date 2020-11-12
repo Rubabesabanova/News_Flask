@@ -1,0 +1,15 @@
+
+.card-wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 1200px;
+}
+.news-title{
+    text-align: center;
+}
+hr{
+    width: 50%;
+    text-align: center;
+}
